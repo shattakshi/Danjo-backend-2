@@ -1,8 +1,8 @@
-# Aforro Backend Assignment
+# Danjo Backend 
 
 ## Overview
 
-This project is a Django REST Framework backend application developed as part of the Aforro Backend Developer Assignment.
+This project is a Django REST Framework backend application developed at.
 
 The system manages products, stores, inventory, and orders while demonstrating:
 
